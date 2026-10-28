@@ -1,1 +1,2 @@
 # KampusEtkinlikYonetimSistemi
+başarıyla baglandı
